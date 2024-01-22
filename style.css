@@ -1,0 +1,10 @@
+fieldset {
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+.txt{
+    display: grid;
+    place-items: center;
+    color: green;
+}
